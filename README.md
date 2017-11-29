@@ -1,5 +1,5 @@
 # TurkishFriendlyLink
-XF2-URL Yapisini ->Romanize Ederek Düzenler
+XF2-URL Yapısını ->Romanize Ederek Düzenler
 
 https://siteadresiniz.com/admin.php?options/groups/basicBoard/ alanında yer alan,
 
