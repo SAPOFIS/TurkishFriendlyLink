@@ -3,8 +3,8 @@ XF2-URL Yapisini ->TR Karakter Sistemine Göre Düzenler
 
 https://siteadresiniz.com/admin.php?options/groups/basicBoard/ alanında yer alan,
 
--Arama motoru dostu URL yapısını kullan.
--URL Türkçe karakterleri kullanma.
+- Arama motoru dostu URL yapısını kullan.
+- URL Türkçe karakterleri kullanma.
 
 Seçeneklerini eklentinizi kurmadan önce işaretleyiniz. 
 
