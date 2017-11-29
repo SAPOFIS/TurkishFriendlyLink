@@ -1,0 +1,17 @@
+{
+  "legacy_addon_id": "XF2TurkishFriendlyLink",
+  "title": "XF2-Turkish-Friendly-Link",
+  "description": "XF2-URL Yapisini TR Karakter Dizimine Göre Düzenler",
+  "version_id": 2000100,
+  "version_string": "2.0.1",
+  "dev": "ovuncdinc",
+  "dev_url": "https://sapofis.com",
+  "faq_url": "https://github.com/ovuncdinc/XF2-Turkish-Friendly-Link/wiki",
+  "support_url": "https://github.com/ovuncdinc/XF2-Turkish-Friendly-Link/issues",
+  "extra_urls": {
+    "GitHub": "https://github.com/xfrocks/VietnameseFriendlyLink",
+    "Icon source": "https://en.wikipedia.org/wiki/Flag_of_Turkey"
+  },
+  "require": [],
+  "icon": "icon.png"
+}
